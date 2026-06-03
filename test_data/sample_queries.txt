@@ -1,0 +1,10 @@
+How do I learn Machine Learning?
+Explain Python decorators.
+How should I prepare for placements?
+What is the difference between a list and a tuple in Python?
+How does the Attention mechanism work in NLP?
+What projects should I build for a Web Developer portfolio?
+Explain the difference between supervised and unsupervised learning.
+How do I handle SQL injections in a Python web app?
+Can you give me a mock technical question for a Software Engineering role?
+How should I structure my resume for an AI intern application?

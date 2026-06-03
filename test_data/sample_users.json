@@ -1,0 +1,7 @@
+{
+  "test_student": {
+    "password_hash": "3ed98775186d068decea67e03b2e03d9d544685de208c2186afc1f14cbd9d0cf",
+    "salt": "7f9afef612e05e3c5506ee99ee800244",
+    "created_at": "2026-06-03 17:05:00"
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": "2026-06-03 16:30:00",
+    "username": "test_student",
+    "track": "Programming",
+    "user": "What is a decorator?",
+    "assistant": "A decorator in Python is a function that modifies the behavior of another function. It is a powerful tool to wrap behavior without modifying the code."
+  },
+  {
+    "timestamp": "2026-06-03 16:45:00",
+    "username": "test_student",
+    "track": "AI/ML",
+    "user": "What is overfitting?",
+    "assistant": "Overfitting occurs when a machine learning model learns the training data too well, capturing noise instead of underlying patterns. This leads to high training accuracy but poor generalization to new data."
+  }
+]
